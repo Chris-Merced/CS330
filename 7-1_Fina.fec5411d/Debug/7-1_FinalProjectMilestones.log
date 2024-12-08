@@ -1,0 +1,22 @@
+﻿  SceneManager.cpp
+C:\Users\Chris\Documents\SNHU\CS-330 Graphic Design\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(223,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chris\Documents\SNHU\CS-330 Graphic Design\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(460,32): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Chris\Documents\SNHU\CS-330 Graphic Design\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(774,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Chris\Documents\SNHU\CS-330 Graphic Design\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(774,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Chris\Documents\SNHU\CS-330 Graphic Design\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(774,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Chris\Documents\SNHU\CS-330 Graphic Design\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(1176,16): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Chris\Documents\SNHU\CS-330 Graphic Design\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(1179,11): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Chris\Documents\SNHU\CS-330 Graphic Design\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(1180,11): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Chris\Documents\SNHU\CS-330 Graphic Design\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(1604,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Chris\Documents\SNHU\CS-330 Graphic Design\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(1604,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Chris\Documents\SNHU\CS-330 Graphic Design\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(1604,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Chris\Documents\SNHU\CS-330 Graphic Design\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(2194,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Chris\Documents\SNHU\CS-330 Graphic Design\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(2197,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Chris\Documents\SNHU\CS-330 Graphic Design\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(2203,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Chris\Documents\SNHU\CS-330 Graphic Design\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(2203,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Chris\Documents\SNHU\CS-330 Graphic Design\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(2206,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Chris\Documents\SNHU\CS-330 Graphic Design\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(2206,12): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Chris\Documents\SNHU\CS-330 Graphic Design\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(2211,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Chris\Documents\SNHU\CS-330 Graphic Design\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(2215,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Chris\Documents\SNHU\CS-330 Graphic Design\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(2215,11): warning C4305: 'argument': truncation from 'double' to 'float'
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\Chris\Documents\SNHU\CS-330 Graphic Design\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
